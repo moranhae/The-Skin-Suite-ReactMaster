@@ -17,7 +17,7 @@ class Image extends Component {
                     className="img-circle img-no-padding img-responsive"
                     src={require("assets/img/SkinceuticalsSunscreen.jpg")}
                   />
-                  <br></br>
+                  {<br></br>}
                   <p className="text-center">Exclusive Partnership with <br></br> // SkinCeuticals Skincare.
                   <br />
                   </p>
@@ -32,13 +32,14 @@ class Image extends Component {
                     alt="..."
                     className="img-circle img-no-padding img-responsive"
                     src={require("assets/img/Hallway.jpg")}
-                  /><br></br>
+                  />
+                  {<br></br>}
                   <p className="text-center">Highly Trained Aestheticians <br></br>// Onsite Medical Director</p>
                   <Button className="btn-round"  target="_self" color="primary" href="./TeamPage">
                       Meet The Team
                     </Button>
                 </Col>
-                <br></br> <br></br>
+        { <br></br>}{ <br></br>}
                 <Col className="mr-auto ml-auto" md="3" sm="3">
                   <h4 className="images-title">Custom <strong>Skincare</strong></h4>
                   <img
@@ -52,7 +53,7 @@ class Image extends Component {
                     </Button>
                 </Col>
               </Row>
-              <br></br><br></br>
+              {<br></br>}{<br></br>}
             </Container>
           </div>
         );

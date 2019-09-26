@@ -37,7 +37,7 @@ import BookPage from "views/examples/BookPage";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/index" render={props => <Index {...props} />} />
+      <Route path="/Index" render={props => <Index {...props} />} />
       <Route
         path ="/ServicesPage"
         render={props => <ServicesPage {...props} />}
