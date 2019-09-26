@@ -33,6 +33,7 @@ import ReviewsPage from "views/examples/ReviewsPage";
 import BookPage from "views/examples/BookPage";
 // others
 
+
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
@@ -62,3 +63,4 @@ ReactDOM.render(
   </BrowserRouter>,
   document.getElementById("root")
 );
+
