@@ -26,7 +26,11 @@ class TeamPhoto extends Component {
                   >
                     Book Now
                   </Button>
-                  <Button href="/ReviewsPage" outline target="_self" className="btn-round" color="primary" type="button">
+                  <Button href="/ReviewsPage"
+                    target="_self"
+                    className="btn-round mr-1" 
+                    color="primary" 
+                    outline >
                     See Our Reviews
                   </Button>
                 </div>
