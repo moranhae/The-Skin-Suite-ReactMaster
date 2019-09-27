@@ -11,7 +11,7 @@ class Image extends Component {
             <Container>
               <Row className="text-center">
               <Col className="mr-auto ml-auto" md="3" sm="3">
-                  <h4 className="images-title">Exclusive <strong>Products</strong></h4>
+                  <h4 className="images-title">Exclusive <strong>Products</strong><br/></h4>
                   <img
                     alt="..."
                     className="img-circle img-no-padding img-responsive"
@@ -25,9 +25,10 @@ class Image extends Component {
                   <Button className="btn-round" color="primary" href="./ProductPage" target="_self">
                      Shop Products
                     </Button>
+                    <br /> <br />
                 </Col>
                 <Col className="mr-auto ml-auto" md="3" sm="3">
-                  <h4 className="images-title">Medical <strong>Aesthetics</strong></h4>
+                  <h4 className="images-title">Medical <strong>Aesthetics</strong><br/></h4>
                   <img
                     alt="..."
                     className="img-circle img-no-padding img-responsive"
@@ -41,7 +42,7 @@ class Image extends Component {
                 </Col>
         { <br></br>}{ <br></br>}
                 <Col className="mr-auto ml-auto" md="3" sm="3">
-                  <h4 className="images-title">Custom <strong>Skincare</strong></h4>
+                  <h4 className="images-title">Custom <strong>Skincare</strong><br /></h4>
                   <img
                     alt="..."
                     className="img-circle img-no-padding img-responsive"
