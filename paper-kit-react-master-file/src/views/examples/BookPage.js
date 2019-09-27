@@ -21,7 +21,7 @@ class BookPage extends Component {
             <br />
             <Container className="text-center">
             <Button
-                    href="tel:704-713-9483"
+                    href="tel:704-323-6693"
                     className="btn-round mr-1"
                     color="primary"
                     target="_blank"
