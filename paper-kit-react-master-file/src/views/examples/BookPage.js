@@ -33,7 +33,7 @@ class BookPage extends Component {
                   target="_blank" 
                   className="btn-round mr-1"
                    color="primary"
-                    outline
+              
                     >
                     Take Me There! 
                   </Button>
