@@ -15,8 +15,8 @@ class LocationBookImage extends Component {
               <div className="filter" />
               <Container>
                 <div className="motto text-center">
-                  <h1><strong>Schedule </strong> A Service</h1>
-                  <h3>1600 E Woodlawn Rd <br />Suite 360 <br />Across from the Park Road Shopping Center</h3>
+                  <h1><strong>Ready </strong> To Book? </h1>
+                  <h3>1600 E Woodlawn Rd <br />Suite 360 </h3>
                   <br />
                   <Button
                     href="tel:704-713-9483"
@@ -29,9 +29,9 @@ class LocationBookImage extends Component {
                   </Button>
                   <Button href="https://goo.gl/maps/Mj4uYzxDY9soC5BbA" outline 
                   target="_blank" 
-                  className="btn-round"
+                  className="btn-round mr-1"
                    color="primary"
-                    type="button">
+                    outline >
                     Take Me There! 
                   </Button>
                 </div>
