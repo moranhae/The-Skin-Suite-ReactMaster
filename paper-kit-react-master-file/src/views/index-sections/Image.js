@@ -18,7 +18,8 @@ class Image extends Component {
                     src={require("assets/img/SkinceuticalsSunscreen.jpg")}
                   />
                   {<br></br>}
-                  <p className="text-center">Exclusive Partnership with <br></br> // SkinCeuticals Skincare.
+                  <p className="text-center">Exclusive Partnership with <br></br> 
+                  <strong> // SkinCeuticals Skincare. </strong>
                   <br />
                   </p>
                   
@@ -35,7 +36,8 @@ class Image extends Component {
                     src={require("assets/img/Hallway.jpg")}
                   />
                   {<br></br>}
-                  <p className="text-center">Highly Trained Aestheticians <br></br>// Onsite Medical Director</p>
+                  <p className="text-center">Highly Trained Aestheticians <br></br>
+                  <strong>// Onsite Medical Director</strong></p>
                   <Button className="btn-round"  target="_self" color="primary" href="./TeamPage">
                       Meet The Team
                     </Button>
@@ -48,7 +50,8 @@ class Image extends Component {
                     className="img-circle img-no-padding img-responsive"
                     src={require("assets/img/SkinceuticalsBoxes.jpg")}
                   /><br></br>
-                  <p className="text-center">Customized Skincare Plans <br></br>// Tailored To You</p>
+                  <p className="text-center">Customized Skincare Plans <br></br>
+                  <strong>// Tailored To You</strong></p>
                   <Button className="btn-round"  target="_self" color="primary" href="/BookPage">
                       Book A Service
                     </Button>
