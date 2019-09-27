@@ -19,7 +19,7 @@ class LocationBookImage extends Component {
                   <h3>1600 E Woodlawn Rd <br />Suite 360 </h3>
                   <br />
                   <Button
-                    href="tel:704-713-9483"
+                    href="tel:704-323-6693"
                     className="btn-round mr-1"
                     color="primary"
                     target="_blank"
