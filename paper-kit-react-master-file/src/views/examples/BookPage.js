@@ -13,6 +13,11 @@ class BookPage extends Component {
             <LocationBookImage />
             <h1 className="text-center">Come See Us!</h1>
             <h3 className="text-center">We can't wait to help you glow!</h3>
+            <p className="text-center">
+              <br />
+              We are located across from the Park Road Shopping Center. <br />
+            We are inside of the Jon Ric Med Spa on the Upper Floor. <br /> <br />
+            Click Below to Book or Get Directions.</p>
             <br />
             <Container className="text-center">
             <Button
