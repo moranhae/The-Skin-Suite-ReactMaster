@@ -31,9 +31,10 @@ class BookPage extends Component {
                   </Button>
                   <Button href="https://goo.gl/maps/Mj4uYzxDY9soC5BbA" 
                   target="_blank" 
-                  className="btn-round"
+                  className="btn-round mr-1"
                    color="primary"
-                    type="button">
+                    outline
+                    >
                     Take Me There! 
                   </Button>
        </Container>
