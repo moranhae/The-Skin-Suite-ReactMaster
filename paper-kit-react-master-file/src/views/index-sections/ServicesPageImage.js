@@ -7,7 +7,7 @@ class ServicesPageImage extends Component {
             <>
             <div
               style={{
-                backgroundImage: "url(" + require("assets/img/SkinSuite-BookNowHeaderLauren.jpg") + ")"
+                backgroundImage: "url(" + require("assets/img/Hallway.jpg") + ")"
               }}
               className="page-header"
               data-parallax={false}
