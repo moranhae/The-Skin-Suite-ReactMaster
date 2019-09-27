@@ -28,7 +28,11 @@ class ProductImage extends Component {
                   >
                     Find Your Fit
                   </Button>
-                  <Button href="/ReviewsPage"  target="_self" className="btn-round" color="primary" type="button" outline>
+                  <Button href="/ReviewsPage" 
+                   target="_self" 
+                   className="btn-round mr-1" 
+                   color="primary" 
+                   outline>
                     See Our Reviews
                   </Button>
                 </div>
